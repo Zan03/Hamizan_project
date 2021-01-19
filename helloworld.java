@@ -3,11 +3,17 @@ public class Helloworld {
 		System.out.println("Hello World");
 		String nama = :"Lare";
 		int umur = 10;
+
+		
+		System.out.println("Nama "+nama);
+		System.out.println("Umur "+umur);
+
 		String alamat ="Jakarta";
 		System.out.println("Nama "+nama);
 		System.out.println("Umur "+umur);
 		System.out.println("Alamat "+alamat);
     
+
 	}
 
 	int private 
